@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Node.js**
+
 
 - 👨‍💻 All of my projects are available at [https://abdelwa7ab.netlify.app/](https://abdelwa7ab.netlify.app/)
 
